@@ -1,0 +1,146 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Camiseta básica",
+        "price": 12.99,
+        "offer": 9.99
+      },
+      {
+        "id": 2,
+        "name": "Pantalones vaqueros",
+        "price": 29.95
+      },
+      {
+        "id": 3,
+        "name": "Vestido de verano",
+        "price": 34.90
+      },
+      {
+        "id": 4,
+        "name": "Chaqueta de invierno",
+        "price": 79.99
+      },
+      {
+        "id": 5,
+        "name": "Zapatos deportivos",
+        "price": 59.90
+      },
+      {
+        "id": 6,
+        "name": "Bufanda de lana",
+        "price": 19.99,
+        "offer": 15.99
+      },
+      {
+        "id": 7,
+        "name": "Gorra de béisbol",
+        "price": 14.95
+      },
+      {
+        "id": 8,
+        "name": "Guantes de piel",
+        "price": 49.90
+      },
+      {
+        "id": 9,
+        "name": "Bolsa de mano",
+        "price": 39.99
+      },
+      {
+        "id": 10,
+        "name": "Cinturón de cuero",
+        "price": 24.95
+      },
+      {
+        "id": 11,
+        "name": "Pijama de algodón",
+        "price": 29.90
+      },
+      {
+        "id": 12,
+        "name": "Ropa interior",
+        "price": 14.99
+      },
+      {
+        "id": 13,
+        "name": "Calcetines",
+        "price": 6.99
+      },
+      {
+        "id": 14,
+        "name": "Traje de baño",
+        "price": 39.99
+      },
+      {
+        "id": 15,
+        "name": "Toalla de playa",
+        "price": 19.95
+      },
+      {
+        "id": 16,
+        "name": "Sábanas de algodón",
+        "price": 49.90
+      },
+      {
+        "id": 17,
+        "name": "Manta de lana",
+        "price": 69.99
+      },
+      {
+        "id": 18,
+        "name": "Cortinas para el hogar",
+        "price": 59.90
+      },
+      {
+        "id": 19,
+        "name": "Alfombra de pelo largo",
+        "price": 99.99
+      },
+      {
+        "id": 20,
+        "name": "Mantel individual",
+        "price": 9.99
+      },
+      {
+        "id": 21,
+        "name": "Servilletas de tela",
+        "price": 14.95
+      },
+      {
+        "id": 22,
+        "name": "Juego de toallas",
+        "price": 49.99
+      },
+      {
+        "id": 23,
+        "name": "Almohada de plumas",
+        "price": 39.90
+      },
+      {
+        "id": 24,
+        "name": "Edredón nórdico",
+        "price": 79.99
+      },
+      {
+        "id": 25,
+        "name": "Cuadro decorativo",
+        "price": 49.99
+      },
+      {
+        "id": 26,
+        "name": "Jarrón de flores",
+        "price": 29.95
+      },
+      {
+        "id": 27,
+        "name": "Lámpara de mesa",
+        "price": 59.90
+      },
+      {
+        "id": 28,
+        "name": "Alfombra de baño",
+        "price": 19.99
+      }
+    ]
+  }
