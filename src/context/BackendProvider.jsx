@@ -6,12 +6,8 @@ const URI_PRODUCTS = 'http://localhost:9005/products';
 function BackendProvider({ children }) {
     const [products, setProducts] = useState([]);
 
-    useEffect(() => {
-        getProducts();
-    }, []);
-
-    const getProducts = async (queryString) => {
-        const uri = queryString ? `${URI_PRODUCTS}?${queryString}` : URI_PRODUCTS;
+    const getProducts = async (search) => {
+        const uri = search ? `${URI_PRODUCTS}?name_like=${search}` : URI_PRODUCTS;
         const response = await fetch(uri);
         const data = await response.json();
         setProducts(data);
@@ -30,16 +26,11 @@ function BackendProvider({ children }) {
         
     }
 
-    const searchProduct = (search) => {
-        const queryString = `name_like=${search}`;
-        getProducts(queryString);
-    }
-
     return (
         <BackendContext.Provider value={{
             products,
             orderProducts,
-            searchProduct
+            getProducts
         }}>
             { children }
         </BackendContext.Provider>

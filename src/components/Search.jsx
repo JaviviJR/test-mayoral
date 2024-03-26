@@ -2,12 +2,12 @@ import { useContext, useEffect, useState } from "react";
 import { BackendContext } from "../context/BackendContext";
 
 function Search() {
-    const { orderProducts, searchProduct } = useContext(BackendContext);
+    const { orderProducts, getProducts } = useContext(BackendContext);
     const [search, setSearch] = useState('');
 
     useEffect(() => {
         const timeout = setTimeout(() => {
-            searchProduct(search);
+            getProducts(search);
         }, 500);
         return () => clearTimeout(timeout);
     }, [search]);
