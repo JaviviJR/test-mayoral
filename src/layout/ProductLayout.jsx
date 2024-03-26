@@ -1,9 +1,9 @@
 import { useContext } from "react";
-import { BackendContext } from "../context/BackendContext";
+import { ProductContext } from "../context/ProductContext";
 import ProductCard from "./ProductCard";
 
-function ProductList() {
-    const { products } = useContext(BackendContext);
+function ProductLayout() {
+    const { products } = useContext(ProductContext);
 
     return (
         <div className="container mt-3">
@@ -14,4 +14,4 @@ function ProductList() {
     );
 }
 
-export default ProductList;
+export default ProductLayout;

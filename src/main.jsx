@@ -1,12 +1,12 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import BackendProvider from './context/BackendProvider.jsx'
+import ProductProvider from './context/ProductProvider.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BackendProvider>
+    <ProductProvider>
       <App />
-    </BackendProvider>
+    </ProductProvider>
   </React.StrictMode>
 )

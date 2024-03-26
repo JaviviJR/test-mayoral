@@ -1,11 +1,11 @@
-import Search from './components/Search';
-import ProductList from './components/ProductList';
+import SearchLayout from './layout/Search';
+import ProductLayout from './layout/ProductLayout';
 
 function App() {
   return (
     <>
-      <Search />
-      <ProductList />
+      <SearchLayout />
+      <ProductLayout />
     </>
   )
 }

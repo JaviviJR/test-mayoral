@@ -1,9 +1,9 @@
-import { useEffect, useState } from "react";
-import { BackendContext } from "./BackendContext";
+import { useState } from "react";
+import { ProductContext } from "./ProductContext";
 
 const URI_PRODUCTS = 'http://localhost:9005/products';
 
-function BackendProvider({ children }) {
+function ProductProvider({ children }) {
     const [products, setProducts] = useState([]);
 
     const getProducts = async (search) => {
@@ -27,14 +27,14 @@ function BackendProvider({ children }) {
     }
 
     return (
-        <BackendContext.Provider value={{
+        <ProductContext.Provider value={{
             products,
             orderProducts,
             getProducts
         }}>
             { children }
-        </BackendContext.Provider>
+        </ProductContext.Provider>
     );
 }
 
-export default BackendProvider;
+export default ProductProvider;
