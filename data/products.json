@@ -4,143 +4,171 @@
         "id": 1,
         "name": "Camiseta básica",
         "price": 12.99,
-        "offer": 9.99
+        "offer": 9.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 2,
         "name": "Pantalones vaqueros",
-        "price": 29.95
+        "price": 29.95,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 3,
         "name": "Vestido de verano",
-        "price": 34.90
+        "price": 34.90,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 4,
         "name": "Chaqueta de invierno",
-        "price": 79.99
+        "price": 79.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 5,
         "name": "Zapatos deportivos",
-        "price": 59.90
+        "price": 59.90,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 6,
         "name": "Bufanda de lana",
         "price": 19.99,
-        "offer": 15.99
+        "offer": 15.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 7,
         "name": "Gorra de béisbol",
-        "price": 14.95
+        "price": 14.95,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 8,
         "name": "Guantes de piel",
-        "price": 49.90
+        "price": 49.90,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 9,
         "name": "Bolsa de mano",
-        "price": 39.99
+        "price": 39.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 10,
         "name": "Cinturón de cuero",
-        "price": 24.95
+        "price": 24.95,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 11,
         "name": "Pijama de algodón",
-        "price": 29.90
+        "price": 29.90,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 12,
         "name": "Ropa interior",
-        "price": 14.99
+        "price": 14.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 13,
         "name": "Calcetines",
-        "price": 6.99
+        "price": 6.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 14,
         "name": "Traje de baño",
-        "price": 39.99
+        "price": 39.99,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 15,
         "name": "Toalla de playa",
-        "price": 19.95
+        "price": 19.95,
+        "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 16,
         "name": "Sábanas de algodón",
-        "price": 49.90
+        "price": 49.90,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 17,
         "name": "Manta de lana",
-        "price": 69.99
+        "price": 69.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 18,
         "name": "Cortinas para el hogar",
-        "price": 59.90
+        "price": 59.90,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 19,
         "name": "Alfombra de pelo largo",
-        "price": 99.99
+        "price": 99.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 20,
         "name": "Mantel individual",
-        "price": 9.99
+        "price": 9.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 21,
         "name": "Servilletas de tela",
-        "price": 14.95
+        "price": 14.95,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 22,
         "name": "Juego de toallas",
-        "price": 49.99
+        "price": 49.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 23,
         "name": "Almohada de plumas",
-        "price": 39.90
+        "price": 39.90,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 24,
         "name": "Edredón nórdico",
-        "price": 79.99
+        "price": 79.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 25,
         "name": "Cuadro decorativo",
-        "price": 49.99
+        "price": 49.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 26,
         "name": "Jarrón de flores",
-        "price": 29.95
+        "price": 29.95,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 27,
         "name": "Lámpara de mesa",
-        "price": 59.90
+        "price": 59.90,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
         "id": 28,
         "name": "Alfombra de baño",
-        "price": 19.99
+        "price": 19.99,
+        "img": "https://images.unsplash.com/photo-1611095006856-19f5ffdca7f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwyfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       }
     ]
   }
