@@ -1,7 +1,7 @@
-import InputSearch from "../components/InputSearch";
-import Order from "../components/Order";
+import InputSearch from "./InputSearch";
+import Order from "./Order";
 
-function SearchLayout() {
+function Search() {
     return (
         <div className="container">
             <div className="row row-cols-1 row-cols-md-2 align-items-center">
@@ -21,4 +21,4 @@ function SearchLayout() {
     );
 }
 
-export default SearchLayout;
+export default Search;

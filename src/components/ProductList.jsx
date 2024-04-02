@@ -2,7 +2,7 @@ import { useContext } from "react";
 import { ProductContext } from "../context/ProductContext";
 import ProductCard from "./ProductCard";
 
-function ProductLayout() {
+function ProductList() {
     const { products } = useContext(ProductContext);
 
     return (
@@ -14,4 +14,4 @@ function ProductLayout() {
     );
 }
 
-export default ProductLayout;
+export default ProductList;

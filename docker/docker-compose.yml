@@ -2,7 +2,7 @@ version: '3.0'
 
 services:
     node:
-        container_name: os3-react-node
+        container_name: mayoral-assignment-node
         command: bash
         build: ./node
         mem_limit: 2048m
