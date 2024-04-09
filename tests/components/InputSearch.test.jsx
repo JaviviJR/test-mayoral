@@ -3,7 +3,7 @@ import InputSearch from "../../src/components/InputSearch";
 import { ProductContext } from "../../src/context/ProductContext";
 
 describe('test <InputSearch />', () => {
-    const getProducts = jest.fn();
+    const handleSearch = jest.fn();
     
     beforeEach(() => {
         jest.clearAllMocks();
@@ -11,29 +11,21 @@ describe('test <InputSearch />', () => {
 
     test('debe coincidir con el snapshot', () => {
         const { container } = render(
-            <ProductContext.Provider value={{
-                getProducts: getProducts
-            }}>
-                <InputSearch />
-            </ProductContext.Provider>
+            <InputSearch handleSearch={ handleSearch } />
         );
         expect(container).toMatchSnapshot();
     })
 
     test('debe llamar getProducts() al escribir en el input', async () => {
         render(
-            <ProductContext.Provider value={{
-                getProducts
-            }}>
-                <InputSearch />
-            </ProductContext.Provider>
+            <InputSearch handleSearch={ handleSearch } />
         );
 
         const input = screen.getByRole('textbox');
         fireEvent.change(input, { target: { value: 'test' } });
         
         await waitFor(() => {
-            expect(getProducts).toHaveBeenCalledTimes(1);
+            expect(handleSearch).toHaveBeenCalledTimes(1);
         });
     })
 })
