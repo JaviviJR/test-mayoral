@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Camiseta básica",
         "price": 12.99,
-        "offer": 9.99,
+        "discount": 5,
         "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {
@@ -35,7 +35,7 @@
         "id": 6,
         "name": "Bufanda de lana",
         "price": 19.99,
-        "offer": 15.99,
+        "discount": 10,
         "img": "https://images.unsplash.com/photo-1696256113318-65c1897832ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1ODMxOTN8MHwxfHNlYXJjaHwxfHxjaGFxdWV0YXxlbnwwfHx8fDE3MTIwNDM4MjN8MA&ixlib=rb-4.0.3&q=80&w=400"
       },
       {

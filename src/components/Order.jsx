@@ -1,21 +1,16 @@
-import { useContext } from "react";
-import { ProductContext } from "../context/ProductContext";
-
-function Order() {
-    const { orderProducts } = useContext(ProductContext);
-
+function Order({ handleOrder }) {
     return (
         <>
             <div 
                 className="h1"
-                onClick={ () => orderProducts('DESC') }
+                onClick={ () => handleOrder('DESC') }
                 style={{ cursor:"pointer" }}
             >
                 -
             </div>
             <div 
                 className="h1"
-                onClick={ () => orderProducts('ASC') }
+                onClick={ () => handleOrder('ASC') }
                 style={{ cursor:"pointer" }}
             >
                 +

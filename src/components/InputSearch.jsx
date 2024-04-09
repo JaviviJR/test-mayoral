@@ -1,13 +1,11 @@
-import { useContext, useEffect, useState } from "react";
-import { ProductContext } from "../context/ProductContext";
+import { useEffect, useState } from "react";
 
-function InputSearch() {
-    const { getProducts } = useContext(ProductContext);
+function InputSearch({ handleSearch }) {
     const [search, setSearch] = useState('');
 
     useEffect(() => {
         const timeout = setTimeout(() => {
-            getProducts(search);
+            handleSearch(search);
         }, 500);
         return () => clearTimeout(timeout);
     }, [search]);
